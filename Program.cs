@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace calculator_c_sharp
+namespace calculator
 {
     class Program
     {
